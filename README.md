@@ -1,2 +1,3 @@
-# dmi-registrasi
-demi-registrasi
+# DMI - Registrasi
+
+DMI - Registrasi
